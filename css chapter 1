@@ -1,0 +1,18 @@
+inhertance: child ko style aik jaisa dena ho to parent ko style dengy jaise 
+div parent hai aur isky child h1 p p hain toh div ko dengy
+why use external style sheet?
+1.aik css ki sheet web k kafi pages k liye kafi hogi 
+2.her tag ki style asani se change kr skty hain.
+3.parhny me asani hogi css alag html alag.
+
+CSS version:
+1996
+1998
+
+kuch browers css support nahi krty unhen css bug
+
+selector rules ko specify krta hai k style yehi hoga
+
+colors ki 3 types hain
+rgb,hex and color name
+contrast bhi zaroori hai

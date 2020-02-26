@@ -1,0 +1,28 @@
+h2  {
+    color: red;
+}
+p {
+    color: blue;
+}
+h3 {
+    color: chocolate;
+}
+h4 {
+    color: darkblue;
+}
+p{
+    text-decoration: overline;
+    text-decoration: none;
+    background-color: cadetblue;
+    letter-spacing: 1px;
+    word-spacing:3px ;
+    }
+a:hover{
+    color: #000;
+}
+a:link{
+    color: coral;
+}
+a:visited{
+    color: darkgreen;
+}
